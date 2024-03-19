@@ -34,10 +34,11 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
   - Descubra os aspectos específicos elogiados (produto, atendimento, etc.).
   - Visualize a relevância de cada aspecto e a opinião geral sobre ele.
 
-<p float="center">
+<p>
 
+<div align="center">
  <img src="https://github.com/LohSilva/LabLanguage-AI900/blob/main/inputs/sentenca_1_positiva.png" width="400" />
-
+</div>
 </p>
 
 3.2 **Teste 2 - Avaliação Negativa:**
