@@ -23,7 +23,7 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
 
 3. **Testando a Ferramenta com Avaliações:**
 
-3.1 **Teste 1 - Avaliação Positiva:**
+  3.1 **Teste 1 - Avaliação Positiva:**
 
 - Insira um texto de avaliação positiva no Language Studio.
 - Observe a análise:
@@ -42,7 +42,7 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
 </div>
 </p>
 
-3.2 **Teste 2 - Avaliação Negativa:**
+  3.2 **Teste 2 - Avaliação Negativa:**
 
 - Repita o processo com um texto de avaliação negativa.
 - Observe a análise:
