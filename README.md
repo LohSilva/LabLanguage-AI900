@@ -46,7 +46,11 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
   - Descubra os aspectos específicos criticados.
   - Visualize a relevância de cada aspecto e a opinião geral sobre ele.
 
-[Analise Negativa](\LabLanguage-AI900\inputs\analise_negativa.png)
+<p float="left">
+
+ <img src="https://github.com/LohSilva/LabLanguage-AI900/blob/main/inputs/analise_negativa.png" width="200" />
+
+</p>
   
 4. **Insights e Aplicações:**
 
