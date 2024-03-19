@@ -34,11 +34,11 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
   - Descubra os aspectos específicos elogiados (produto, atendimento, etc.).
   - Visualize a relevância de cada aspecto e a opinião geral sobre ele.
 
-*Resultado Avaliação Positiva:
+*Resultado Avaliação Positiva:*
 <p>
 
 <div align="center">
- <img src="https://github.com/LohSilva/LabLanguage-AI900/blob/main/inputs/sentenca_1_positiva.png" width="400" />
+ <img src="https://github.com/LohSilva/LabLanguage-AI900/blob/main/inputs/sentenca_1_positiva.png" width="600" />
 </div>
 </p>
 
@@ -53,11 +53,11 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
   - Descubra os aspectos específicos criticados.
   - Visualize a relevância de cada aspecto e a opinião geral sobre ele.
 
-*Resultado Avaliação Negativa:
+*Resultado Avaliação Negativa:*
 <p>
 
 <div align="center">
- <img src="https://github.com/LohSilva/LabLanguage-AI900/blob/main/inputs/analise_negativa.png" width="400" />
+ <img src="https://github.com/LohSilva/LabLanguage-AI900/blob/main/inputs/analise_negativa.png" width="600" />
 </div>
 </p>
   
