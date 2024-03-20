@@ -71,7 +71,7 @@ Objetivo: Explorar o poder da análise de sentimento e mineração de opiniões 
 
 5. **Considerações Finais:**
 
-O Language Studio se destaca como uma ferramenta poderosa para:
+  O Language Studio se destaca como uma ferramenta poderosa para:
 
 - **Análise de feedback:** Compreender a opinião do público sobre produtos, serviços e experiências.
 - **Pesquisa de mercado:** Obter insights valiosos sobre o público-alvo e suas necessidades.
